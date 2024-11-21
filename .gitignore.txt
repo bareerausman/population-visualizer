@@ -1,0 +1,13 @@
+/target/
+*.log
+*.class
+*.jar
+*.war
+*.iml
+/.idea/
+/.vscode/
+/bin/
+/build/
+.DS_Store
+mvnw*
+*.db
